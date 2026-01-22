@@ -34,8 +34,8 @@ endif
 COMPILE_ARGS 		+= -I$(SRC_DIR)
 
 # Include the testbench sources:
-VERILOG_SOURCES += $(PWD)/tb.v
-TOPLEVEL = tb
+VERILOG_SOURCES += $(PWD)/full_adder_tb.v
+TOPLEVEL = full_adder_tb
 
 # MODULE is the basename of the Python test file
 MODULE = test
