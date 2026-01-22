@@ -28,7 +28,7 @@ module full_adder_tb ();
 `endif
 
   // Replace tt_um_example with your module name:
-  tt_umtaghreed_eialsalman_full_adder user_project (
+  tt_um_taghreed_eialsalman_full_adder user_project (
 
       // Include power ports for the Gate Level test:
 `ifdef GL_TEST
