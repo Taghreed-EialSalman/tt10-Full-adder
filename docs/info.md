@@ -1,5 +1,4 @@
 ## How it works
-
 A full adder is a combinational circuit that adds two bits and a carry and outputs a sum bit and a carry bit. When we want to add two binary numbers, each having two or more bits,the LSBs can be added by using a half adder.
 
 ## How to test
@@ -18,15 +17,12 @@ You test it by running all possible inputs and checking if the outputs match the
 | 1 | 1 |  1  |  1  |  1   |
 
 ## External hardware
-
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
-
 NONE
 
 ## Pinout
 
 ### Inputs
-
 | Pin     | Name |
 |---------|------|
 | ui[0]   | A    |
@@ -39,7 +35,6 @@ NONE
 | ui[7]   |      |
 
 ### Outputs
-
 | Pin     | Name |
 |---------|------|
 | uo[0]   | Sum    |
