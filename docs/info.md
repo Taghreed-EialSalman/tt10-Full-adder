@@ -2,6 +2,7 @@
 A full adder is a combinational circuit that adds two bits and a carry and outputs a sum bit and a carry bit. When we want to add two binary numbers, each having two or more bits,the LSBs can be added by using a half adder.
 ## How to test
 You test it by running all possible inputs and checking if the outputs match the expected values. Refer to the truth table of full adder below.
+
 | A | B | Cin | Sum | Cout |
 |---|---|-----|-----|------|
 | 0 | 0 |  0  |  0  |  0   |
